@@ -1,0 +1,18 @@
+#b1{
+    margin: top 0px;
+    margin: left 0px;
+    width: 200px;
+    height: 70px;
+    background-color: blueviolet;
+    color: white;
+    border-radius: 30px;
+}
+
+button:hover{
+    background-color: white;
+    color:violet;
+    box-shadow: 0px 15px 20px rgba(46, 229, 157, 0.4);
+    color: #fff;
+    transform: translateY(-7px);
+  
+}    
